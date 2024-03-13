@@ -4,7 +4,7 @@ Fix landvalue bug and Tune methods of measuring landvalue to be more realistic.
 
 # Features
 
-- Fix landvalue bug (or maybe "designed" :-) in vanilla game.The vanilla landvalue system seems to calculate the impact factor of dense or sparse buildings on the road.Its a good feature but it seems to be going in the wrong direction by an incorrectly defined symbols. As a result, landvalue on the edge of some roads without buildings are exceptionally high, also caused the overall landvalue to be too high.
+- Fix landvalue bug (or maybe "designed" :-) in vanilla game.The vanilla landvalue system seems to calculate the impact factor of dense or sparse buildings on the road.Its a good feature but it seems to be going in the wrong direction by an incorrectly defined symbol. As a result, landvalue on the edge of some roads without buildings are exceptionally high, also caused the overall landvalue to be too high.
 - Add new feature to calculate landvalue separately for each zonetype(residential,commerial,manufacturing,office,extractor,etc) , try to be more realistic.
 - Modification will make landvalue decreases faster with distance (compared to vanilla).
 
