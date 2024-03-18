@@ -44,3 +44,10 @@ Fix landvalue bug and Tune methods of measuring landvalue to be more realistic.
  - Thanks to captain_on_coit for the Git repo template, and Jimmyokok for reference the code structure. 
  - Thanks to Cities Skylines 2 Unofficial Modding Discord[DISCORD](https://discord.gg/nJBfTzh7)
  - [CSLBBS](https://www.cslbbs.net): Cities: Skylines 2 community ( in chinese )
+
+
+![2024-03-17 221903](https://github.com/Noel-leoN/LandValueTuning/assets/151483346/de365427-39f2-4d4b-ae92-21cab3c839fc)
+fix low res zone fit
+
+![2024-03-17 221940](https://github.com/Noel-leoN/LandValueTuning/assets/151483346/5294e4dd-b9dd-4d29-8258-2839a04930ec)
+landvalue overall
